@@ -20,5 +20,10 @@ public class  Ventana extends JFrame
     JPanel panel;//Creacion de objeto JPanel
     JLabel label;
     JTextField text;
-    JButton boton;  
+    JButton boton;
+    //PASO 4 - DEFINIR EL CONSTRUCTOR
+public Ventana()
+{
+    
+}
 }
