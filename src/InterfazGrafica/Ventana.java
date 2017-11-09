@@ -47,6 +47,6 @@ public Ventana()
         //PASO 7 -PROPIEDADES DE LOS ELEMENTOS
         label.setText("Nombre");
         boton.setText("Enviar");
-        panel.setBackground(Color.pink);//COLOR DE FONDO DEL JPANEL
+        panel.setBackground(Color.blue);//COLOR DE FONDO DEL JPANEL
 }
 }
